@@ -1,3 +1,6 @@
+## DOWNLOAD:
+https://github.com/Shabalakko/AR-TEST/releases/tag/APK
+
 # AR Machine Inspector
 
 Applicazione di realtà aumentata per l'ispezione e la gestione di macchinari industriali, costruita con Unity AR Foundation e XR Interaction Toolkit.
