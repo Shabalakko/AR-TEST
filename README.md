@@ -27,12 +27,6 @@ Se hai negato l'autorizzazione per errore:
 3. Vai su **Autorizzazioni** → **Fotocamera**
 4. Imposta su **Consenti**
 
-### iOS
-Al primo avvio, un popup di sistema chiederà l'accesso alla fotocamera. Premi **"OK"** o **"Consenti"**.
-
-Se hai negato l'autorizzazione:
-1. Vai su **Impostazioni** → scorri fino all'app
-2. Attiva l'interruttore **Fotocamera**
 
 > ⚠️ **Senza il permesso fotocamera l'app non funzionerà.**
 
