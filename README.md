@@ -51,12 +51,12 @@ Il menu di creazione oggetti è stato implementato per supportare macchine multi
 
 ### 2. ✏️ Rinominare una Macchina
 
-Ogni voce del menu ha un pulsante **Rinomina** (icona matita).
+Ogni voce del menu ha un pulsante **Rinomina** (icona **""...""**).
 
 **Come si usa:**
 1. Apri il menu e premi il pulsante **Rinomina** accanto alla macchina desiderata.
 2. Si apre la **tastiera di sistema**: digita il nuovo nome.
-3. Il nome sul bottone si aggiorna **in tempo reale** mentre scrivi.
+3. Il nome sul bottone si aggiorna **in tempo reale** mentre scrivi. 
 4. Conferma con il tasto **"Invio"** o chiudi la tastiera: il nome viene salvato automaticamente.
 
 > Se lasci il campo vuoto e chiudi la tastiera, viene ripristinato il nome predefinito (es. "Macchina 1").
